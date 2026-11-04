@@ -8,3 +8,18 @@
   level: 'error',
   timestamp: '28-10-2026 20:12:47'
 }
+{
+  message: '🔨 Creando backend',
+  level: 'info',
+  timestamp: '04-11-2026 18:17:52'
+}
+{
+  message: '🔨 Creando servidor de Archivos Estáticos',
+  level: 'info',
+  timestamp: '04-11-2026 18:17:52'
+}
+{
+  message: '🛣️ Registrando rutas',
+  level: 'info',
+  timestamp: '04-11-2026 18:17:52'
+}
