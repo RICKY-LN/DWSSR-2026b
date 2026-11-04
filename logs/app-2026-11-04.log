@@ -1,3 +1,29 @@
 {"level":"info","message":"🔨 Creando backend","timestamp":"2026-11-04T18:17:52.112Z"}
 {"level":"info","message":"🔨 Creando servidor de Archivos Estáticos","timestamp":"2026-11-04T18:17:52.117Z"}
 {"level":"info","message":"🛣️ Registrando rutas","timestamp":"2026-11-04T18:17:52.118Z"}
+{"level":"info","message":"🔨 Creando backend","timestamp":"2026-11-04T21:10:34.453Z"}
+{"level":"info","message":"🔨 Creando servidor de Archivos Estáticos","timestamp":"2026-11-04T21:10:34.457Z"}
+{"level":"info","message":"🛣️ Registrando rutas","timestamp":"2026-11-04T21:10:34.458Z"}
+{"level":"info","message":"GET / 500 162.161 ms - 237","timestamp":"2026-11-04T21:10:39.463Z"}
+{"level":"info","message":"GET /favicon.ico 404 4.699 ms - 237","timestamp":"2026-11-04T21:10:39.674Z"}
+{"level":"info","message":"🔨 Creando backend","timestamp":"2026-11-04T21:19:52.076Z"}
+{"level":"info","message":"🔨 Creando servidor de Archivos Estáticos","timestamp":"2026-11-04T21:19:52.080Z"}
+{"level":"info","message":"🛣️ Registrando rutas","timestamp":"2026-11-04T21:19:52.081Z"}
+{"level":"info","message":"GET / 200 43.453 ms - 425","timestamp":"2026-11-04T21:19:55.039Z"}
+{"level":"info","message":"GET / 200 9.902 ms - 449","timestamp":"2026-11-04T21:19:58.498Z"}
+{"level":"info","message":"GET / 200 3.400 ms - 473","timestamp":"2026-11-04T21:19:58.972Z"}
+{"level":"info","message":"GET / 200 3.221 ms - 497","timestamp":"2026-11-04T21:19:59.289Z"}
+{"level":"info","message":"GET / 200 11.820 ms - 521","timestamp":"2026-11-04T21:19:59.741Z"}
+{"level":"info","message":"GET / 200 3.284 ms - 545","timestamp":"2026-11-04T21:20:00.016Z"}
+{"level":"info","message":"GET / 200 4.603 ms - 569","timestamp":"2026-11-04T21:20:00.304Z"}
+{"level":"info","message":"GET / 200 3.526 ms - 593","timestamp":"2026-11-04T21:20:00.501Z"}
+{"level":"info","message":"GET / 200 4.499 ms - 617","timestamp":"2026-11-04T21:20:00.787Z"}
+{"level":"info","message":"GET / 200 3.917 ms - 642","timestamp":"2026-11-04T21:20:00.982Z"}
+{"level":"info","message":"GET / 200 5.915 ms - 666","timestamp":"2026-11-04T21:20:01.256Z"}
+{"level":"info","message":"GET / 200 2.418 ms - 690","timestamp":"2026-11-04T21:20:01.498Z"}
+{"level":"info","message":"GET / 200 6.884 ms - 714","timestamp":"2026-11-04T21:20:01.723Z"}
+{"level":"info","message":"GET / 200 3.031 ms - 738","timestamp":"2026-11-04T21:20:01.992Z"}
+{"level":"info","message":"GET / 200 2.651 ms - 762","timestamp":"2026-11-04T21:20:02.262Z"}
+{"level":"info","message":"GET / 200 3.050 ms - 786","timestamp":"2026-11-04T21:20:02.536Z"}
+{"level":"info","message":"GET / 200 2.567 ms - 810","timestamp":"2026-11-04T21:20:02.916Z"}
+{"level":"info","message":"GET / 200 4.745 ms - 834","timestamp":"2026-11-04T21:20:03.238Z"}

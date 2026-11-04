@@ -23,3 +23,133 @@
   level: 'info',
   timestamp: '04-11-2026 18:17:52'
 }
+{
+  message: '🔨 Creando backend',
+  level: 'info',
+  timestamp: '04-11-2026 21:10:34'
+}
+{
+  message: '🔨 Creando servidor de Archivos Estáticos',
+  level: 'info',
+  timestamp: '04-11-2026 21:10:34'
+}
+{
+  message: '🛣️ Registrando rutas',
+  level: 'info',
+  timestamp: '04-11-2026 21:10:34'
+}
+{
+  message: 'GET / 500 162.161 ms - 237',
+  level: 'info',
+  timestamp: '04-11-2026 21:10:39'
+}
+{
+  message: 'GET /favicon.ico 404 4.699 ms - 237',
+  level: 'info',
+  timestamp: '04-11-2026 21:10:39'
+}
+{
+  message: '🔨 Creando backend',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:52'
+}
+{
+  message: '🔨 Creando servidor de Archivos Estáticos',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:52'
+}
+{
+  message: '🛣️ Registrando rutas',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:52'
+}
+{
+  message: 'GET / 200 43.453 ms - 425',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:55'
+}
+{
+  message: 'GET / 200 9.902 ms - 449',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:58'
+}
+{
+  message: 'GET / 200 3.400 ms - 473',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:58'
+}
+{
+  message: 'GET / 200 3.221 ms - 497',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:59'
+}
+{
+  message: 'GET / 200 11.820 ms - 521',
+  level: 'info',
+  timestamp: '04-11-2026 21:19:59'
+}
+{
+  message: 'GET / 200 3.284 ms - 545',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:00'
+}
+{
+  message: 'GET / 200 4.603 ms - 569',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:00'
+}
+{
+  message: 'GET / 200 3.526 ms - 593',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:00'
+}
+{
+  message: 'GET / 200 4.499 ms - 617',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:00'
+}
+{
+  message: 'GET / 200 3.917 ms - 642',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:00'
+}
+{
+  message: 'GET / 200 5.915 ms - 666',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:01'
+}
+{
+  message: 'GET / 200 2.418 ms - 690',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:01'
+}
+{
+  message: 'GET / 200 6.884 ms - 714',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:01'
+}
+{
+  message: 'GET / 200 3.031 ms - 738',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:01'
+}
+{
+  message: 'GET / 200 2.651 ms - 762',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:02'
+}
+{
+  message: 'GET / 200 3.050 ms - 786',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:02'
+}
+{
+  message: 'GET / 200 2.567 ms - 810',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:02'
+}
+{
+  message: 'GET / 200 4.745 ms - 834',
+  level: 'info',
+  timestamp: '04-11-2026 21:20:03'
+}
